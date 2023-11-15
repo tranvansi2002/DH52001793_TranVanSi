@@ -7,3 +7,14 @@ void nhap(int a[], int n)
 		cin >> a[i];
 	}
 }
+
+void xuatSoChan(int a[], int n) {
+	for(int i=0;i<n;i++) {
+		if(a[i] %2==0){
+			cout<<a[i];
+		}
+	}
+}
+void xuatThongTin() {
+	cout<<"DH52001793,Trần Văn Sĩ, D20_TH03";
+}
