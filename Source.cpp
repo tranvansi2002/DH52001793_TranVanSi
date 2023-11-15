@@ -15,3 +15,6 @@ void xuatSoChan(int a[], int n) {
 		}
 	}
 }
+void xuatThongTin() {
+	cout<<"DH52001793,Trần Văn Sĩ, D20_TH03";
+}
